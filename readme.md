@@ -4,7 +4,7 @@ cd ~/pcfi
 make run
 ```
 Copyright (C) 2025 TPG, Rocco Himel, all rights reserved.
-PCFI is complies and is licenced under the GNU General Public License version 3 (GPLv3)
+PCFI complies and is licenced under the GNU General Public License version 3 (GPLv3)
 for redistribution rights of PRO-C2.
 
 Copyright (C) 2010-2012 Coldbird, Virtuous Flame and contributors.
